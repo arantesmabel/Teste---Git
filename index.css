@@ -1,0 +1,21 @@
+.fundo{
+    background-color: white;
+    width: 300px;
+    height: 600px;
+    position: relative;
+    top: 50%;
+    margin-top: -300px;
+}
+.bola{
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+
+}
+.quadrado{
+    background-color: rgb(9, 184, 9);
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+}
